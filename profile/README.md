@@ -1,4 +1,4 @@
-## Hi DEs 👋
+## Hi DS & DEs 👋
 An open data management community on GitHub is a collaborative environment where data professionals, organizations, and enthusiasts come together to develop, share, and maintain data management solutions, best practices, and resources. These communities focus on improving how data is collected, stored, processed, and governed, leveraging GitHub’s powerful version control and collaboration features.
 ## Key Characteristics of an Open Data Management Community
 	1.	Collaboration and Knowledge Sharing:
