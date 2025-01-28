@@ -1,5 +1,4 @@
 ## Hi DSs & DEs 👋
-这个社区，目的是为了给一群数据人一个线上的技术业务交流平台，
 
 An open data management community on GitHub is a collaborative environment where data professionals, organizations, and enthusiasts come together to develop, share, and maintain data management solutions, best practices, and resources. These communities focus on improving how data is collected, stored, processed, and governed, leveraging GitHub’s powerful version control and collaboration features.
 
